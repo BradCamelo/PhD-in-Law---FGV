@@ -2,7 +2,7 @@
 
 ## PhD Research — FGV Direito SP
 
-This repository contains the data infrastructure, scripts, and documentation associated with my doctoral research at FGV Direito SP. The dissertation investigates how experimental methods—particularly Randomized Controlled Trials (RCTs)—can be applied to empirical research in law and public administration.
+This repository contains the data infrastructure, scripts, and documentation associated with my doctoral research at FGV Direito SP. The dissertation investigates how experimental methods—particularly Randomized Controlled Trials (RCTs)—can be applied to empirical research in law.
 
 While the thesis has a primarily methodological focus, examining the role of causal inference and experimental design in legal scholarship, it also includes the implementation of an original field experiment involving Brazilian municipalities. The empirical component evaluates institutional innovations in public procurement systems.
 
@@ -10,15 +10,13 @@ This repository serves as the central environment for organizing, processing, do
 
 All publicly available datasets used in the project, as well as the scripts responsible for data collection, processing, and analysis, are made available here to ensure transparency, reproducibility, and methodological clarity.
 
-Parts of the data infrastructure and analytical scripts contained in this repository were developed with the assistance of advanced AI tools. In particular, several components of the codebase were elaborated in collaboration with Claude, which supported the development of data pipelines, matching algorithms, and data-processing routines used in the empirical stages of the research. All scripts were subsequently reviewed, adapted, and validated within the context of the research design.
+Parts of the data infrastructure and analytical scripts contained in this repository were developed with the assistance of AI tools. In particular, several components of the codebase were elaborated in collaboration with Claude. All scripts were subsequently reviewed, adapted, and validated within the context of the research design.
 
 ## Research Overview
 
 The dissertation investigates how experimental methods can contribute to the identification of causal effects in legal and institutional contexts, particularly in the domain of public procurement and administrative governance.
 
 Traditional legal scholarship frequently relies on doctrinal analysis and qualitative interpretation. While these approaches remain essential, they often face limitations when addressing questions of policy effectiveness and institutional performance.
-
-This research explores how legal scholars can incorporate rigorous empirical methods—especially experimental designs—into the study of legal institutions.
 
 The thesis therefore pursues two complementary objectives:
 
@@ -46,11 +44,11 @@ It functions as a replication environment, where the datasets used in the disser
 
 It provides access to the code used throughout the research process, including:
 
-- Data collection pipelines
+- Data collection 
 
 - Data cleaning and transformation procedures
 
-- Dataset construction routines
+- Dataset construction 
 
 - Matching and randomization algorithms
 
